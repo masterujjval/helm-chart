@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
         - name: emart
-          image: {{ .Values.image.repository }}:{{ .Values.image.tag }}
+          image: hunterzoro/emartapp:latest
           imagePullPolicy: {{ .Values.image.pullPolicy }}
           ports:
             - containerPort: 4200
