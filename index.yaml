@@ -3,12 +3,12 @@ entries:
   ugchart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-10-21T10:58:50.147225417Z"
+    created: "2025-10-23T10:06:11.513474306Z"
     description: A Helm chart for Kubernetes
-    digest: eb259b0fd19a4264d10aeee454cd54ab8240f8e2b8b5db7cf56823e9096d4f98
+    digest: eac0bf4497a55dfbb2ff45aa1d2da0bc10e0e18d0c7bbc82fa394484312d0e3f
     name: ugchart
     type: application
     urls:
     - https://masterujjval.github.io/helm-chart/ugchart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-21T10:58:50.146424384Z"
+generated: "2025-10-23T10:06:11.512994049Z"
